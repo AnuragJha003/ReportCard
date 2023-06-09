@@ -2,6 +2,6 @@
 |---|---|---|---|---|
 |Anurag   |98   |SE   |   |   |
 |Rishi  |87 |CN   | |
-|Anupam   |69   |DSA   |   |   |
+|Anupam   |100  |Coa   |   |   |
 |Spandan  |70   |DBMS |    |   |
 |Mayank   |90   |OOPS |    |   |
