@@ -1,7 +1,7 @@
 |NAME   |MARKS   |SUBJECT   |  |   |
 |---|---|---|---|---|
 |Anurag   |98   |SE   |   |   |
-|Rishi  |87 |CN   | |
-|Anupam   |100  |Coa   |   |   |
-|Spandan  |70   |DBMS |    |   |
+|Anupam   |69   |DSA   |   |   |
+|Spandan  |70   |DBMS |    |    |
+|Spandan1 |76   |SE   |    |    |
 |Mayank   |90   |OOPS |    |   |
